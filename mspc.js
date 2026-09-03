@@ -32,7 +32,7 @@ const scripts = [
   { name: 'Battle Pass Chests', fn: runBattlePassChests, alwaysRun: true },
   { name: 'Burn Energy - After Chests', fn: runBurnEnergy, alwaysRun: true },
 
-  { name: 'Fashion Magazine', fn: runFashionMagazine, envKey: 'LP_FASHION_MAGAZINE_URL' },
+  /*{ name: 'Fashion Magazine', fn: runFashionMagazine, envKey: 'LP_FASHION_MAGAZINE_URL' },
 
   { name: 'Tele Event', fn: runTeleportEvent, envKey: 'LP_TELEPORT_URL' },
 
@@ -44,11 +44,11 @@ const scripts = [
 
   { name: 'Parties', fn: runParties, alwaysRun: false },
 
-  { name: 'Memory Event', fn: runMemoryEvent, envKey: 'LP_MEMORY_URL' },
+  { name: 'Memory Event', fn: runMemoryEvent, envKey: 'LP_MEMORY_URL' },*/
 
-  { name: 'Furniture Script', fn: runFurnitureScript, alwaysRun: false },
+  { name: 'Furniture Script', fn: runFurnitureScript, alwaysRun: true },
 
-  { name: 'Daily Tasks', fn: runDailyTasks, alwaysRun: false },
+  /*{ name: 'Daily Tasks', fn: runDailyTasks, alwaysRun: false },
 
   { name: 'Boyfriend Kiss', fn: runBoyfriendKiss, alwaysRun: false },
 
@@ -58,7 +58,7 @@ const scripts = [
 
   { name: 'Bridesmaids Tasks', fn: runBridesmaids, alwaysRun: false },
 
-  { name: 'Apartment + Gifts', fn: runApartmentAndGifts, alwaysRun: false },
+  { name: 'Apartment + Gifts', fn: runApartmentAndGifts, alwaysRun: false },*/
 
 ];
 
